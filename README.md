@@ -45,7 +45,7 @@ Další odkazy
 Nejčastější git operace, které používáme
 
 - `git pull --rebase` - stažení a začlenění nových změn ze serveru. Nesmí být žádné lokální změny a občas se mohou objevit konflikty. Pokud se něco takového stane **DON'T PANIC** a vyhledej zkušenějšího kolegu.
-- `git add -all` - označení všech změn v pracovním adresáři pro commit
+- `git add --all` - označení všech změn v pracovním adresáři pro commit
 - `git commit -m "strucny popis zmeny, ktere se commit tyka"` - vytvoření commitu z připravených změn
 - `git push origin` - poslání commitnutých změn na server
 
