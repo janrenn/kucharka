@@ -3,6 +3,7 @@
 Quick Start Guide WIP
 
 - Oblíbený editor https://www.sublimetext.com
+- IDE https://www.jetbrains.com/phpstorm/
 - Prohlížeč dokumentace http://devdocs.io
 - Používané frontend technologie [Stylus](http://stylus-lang.com), [Jade](http://naltatis.github.io/jade-syntax-docs), [mango-cli](http://mangocli.org), [Browsersync](https://www.browsersync.io), ...
 
